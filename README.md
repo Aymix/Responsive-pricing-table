@@ -1,7 +1,7 @@
 # Responsive-pricing-table
 
 <p align="center">
-  <b>This is a multi level menu with nested element coded with pure css</b>
+  <b>Source code for fully responsive pricing template based on bootstrap grid system.</b>
 </p>
 
 ---
