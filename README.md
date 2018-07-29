@@ -9,7 +9,7 @@
 
 ## Developers
 
-To always have the news, you may want to change it to the style you like. So i made it with love to be easy to modify with simple classes using no library or framework.
+You can always change it to the style you like.
 
 Just Clone repository.
 
